@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ATmega32A_ADC_Driver", "ATmega32A_ADC_Driver\ATmega32A_ADC_Driver.cproj", "{0391AB29-23F6-46F4-9C6A-9C19557534E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0391AB29-23F6-46F4-9C6A-9C19557534E3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0391AB29-23F6-46F4-9C6A-9C19557534E3}.Debug|AVR.Build.0 = Debug|AVR
+		{0391AB29-23F6-46F4-9C6A-9C19557534E3}.Release|AVR.ActiveCfg = Release|AVR
+		{0391AB29-23F6-46F4-9C6A-9C19557534E3}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
